@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dim Seventh</string>
+    <string name="mi_exit">Exit</string>
+    <string name="mi_about">About</string>
+    <string name="til_name_hint">Name</string>
+    <string name="bt_add">Add</string>
+</resources>
